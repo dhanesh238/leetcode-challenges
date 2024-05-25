@@ -1,2 +1,11 @@
 # leetcode-challenges
 Contains the solutions to Leetcode challenges
+
+| Description                |  Difficulty  | Problem Link                                                                                     | Solution                                                                                                                   |
+|:---------------------------|:------------:|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|
+| 01. Two Sum                |     Easy     | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                    | [Solution](https://github.com/dhanesh238/leetcode-challenges/blob/main/src/main/java/com/dhanesh/TwoSum.java)              |
+| 09. Palindrome Number      |     Easy     | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                | [Solution](https://github.com/dhanesh238/leetcode-challenges/blob/main/src/main/java/com/dhanesh/PalindromeNumber.java)    |
+| 13. Roman to Integer       |     Easy     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)                  | [Solution](https://github.com/dhanesh238/leetcode-challenges/blob/main/src/main/java/com/dhanesh/RomanToInteger.java)      |
+| 14. Longest common prefix  |     Easy     | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)        | [Solution](https://github.com/dhanesh238/leetcode-challenges/blob/main/src/main/java/com/dhanesh/LongestCommonPrefix.java) |
+| 520. Detect Capital        |     Easy     | [Detect Capital](https://leetcode.com/problems/detect-capital/)                                  | [Solution](https://github.com/dhanesh238/leetcode-challenges/blob/main/src/main/java/com/dhanesh/DetectCapital.java)       |
+| 744. Find Smallest Letter  |     Easy     | [Find Smallest Letter](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)  | [Solution]()                                                                                                               |
